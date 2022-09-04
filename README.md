@@ -9,6 +9,8 @@ Once the password is generated, it is copied to your clipboard.
 -> e#*fUujgNT
 ```
 
+⚠ On ArchLinux you must have `xsel` to copy the password to your clipboard.
+
 ## Settings
 ```
 width: int (= w)
